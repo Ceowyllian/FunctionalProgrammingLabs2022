@@ -6,3 +6,9 @@
 
 - [Код Scala](/src/main/scala/calculator)
 - [Код Java](/src/main/java/calculator)
+
+### #2. Skillonomy
+
+- [Код Scala](/src/main/scala/skillonomy)
+- [Код Java](/src/main/java/skillonomy)
+- [Тести (JUnit)](/src/test/java/skillonomy)
